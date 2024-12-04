@@ -39,7 +39,7 @@ Here are some of the technologies I work with:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
 ## 📈 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakrysta&show_icons=true&hide_title=true&hide=prs)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&hide_title=true&hide=prs)
 
 ## 📣 Let's Connect
 
