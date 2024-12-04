@@ -1,10 +1,15 @@
-# Hi there, I'm Aditya 👋
+# ![Waving Hand](https://media.giphy.com/media/3o7TKrHtLVG2TA8k8g/giphy.gif)
+
+Hi, my name is Aditya
+
 
 ## Web Developer & Web Designer
 
 🌍 I'm based in India  
 🖥️ See my portfolio at https://adityafull-stack.vercel.app
-✉️ You can contact me at [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
+
+
+✉️ You can contact me at AdityaKishorejs@proton.me
 
 ## 🚀 Skills
 Here are some of the technologies I work with:
@@ -41,7 +46,7 @@ Here are some of the technologies I work with:
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakrysta&show_icons=true&hide_title=true&hide=prs)
 
 ## 📣 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/adityakrysta/)
+
 - [Twitter](https://twitter.com/adityakrysta)
 - [Portfolio](https://adityafull-stack.vercel.app)
 
