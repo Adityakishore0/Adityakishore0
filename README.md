@@ -1,14 +1,9 @@
-# ![Waving Hand](https://media.giphy.com/media/3o7TKrHtLVG2TA8k8g/giphy.gif)
-
-Hi, my name is Aditya
-
+# 👋 Hi, my name is Aditya
 
 ## Web Developer & Web Designer
 
 🌍 I'm based in India  
 🖥️ See my portfolio at https://adityafull-stack.vercel.app
-
-
 ✉️ You can contact me at AdityaKishorejs@proton.me
 
 ## 🚀 Skills
