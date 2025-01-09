@@ -39,7 +39,7 @@ Here are some of the technologies I work with:
 
 ## 📣 Let's Connect
 
-- [Twitter](https://twitter.com/adityakrysta)
+- [Twitter](https://x.com/AdityaFullstack)
 - [Portfolio](https://adityafull-stack.vercel.app)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
