@@ -3,7 +3,7 @@
 ## Web Developer & Web Designer
 
 - 🌍 **I'm based in India**  
-- 🖥️ **See my portfolio**: https://adityafull-stack.vercel.app  
+- 🖥️ **See my portfolio**: https://aditya.is-cool.dev  
 - ✉️ **You can contact me at**: [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
 
@@ -40,6 +40,6 @@ Here are some of the technologies I work with:
 ## 📣 Let's Connect
 
 - [Twitter](https://x.com/AdityaFullstack)
-- [Portfolio](https://adityafull-stack.vercel.app)
+- [Portfolio](https://aditya.is-cool.dev)
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
