@@ -42,5 +42,5 @@ Here are some of the technologies I work with:
 
 - [Twitter](https://x.com/AdityaFullstack)
 - [Portfolio](https://aditya.is-cool.dev)
-
+- [Aetheris AI](https://www.codewithashutosh.com/)
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
