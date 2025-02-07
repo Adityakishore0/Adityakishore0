@@ -4,7 +4,7 @@
 
 - 🌍 **I'm based in India**  
 - 🖥️ **See my portfolio**: https://aditya.is-cool.dev
-- 🖥️ **Building Aetheris AI**: https://www.codewithashutosh.com/  
+- ⚡ **Building Aetheris AI**: https://www.codewithashutosh.com/  
 - ✉️ **You can contact me at**: [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
 
