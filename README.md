@@ -7,8 +7,7 @@
 - ⚡ **Building Aetheris AI**: https://www.codewithashutosh.com/  
 - ✉️ **You can contact me at**: [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
-### 😂 Random Developer Meme
-<img src="https://random-memer.herokuapp.com/" width="500px">
+
 ## 🚀 Skills
 Here are some of the technologies I work with:
 
