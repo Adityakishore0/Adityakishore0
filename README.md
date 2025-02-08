@@ -36,7 +36,16 @@ Here are some of the technologies I work with:
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
+### 🚀 GitHub Stats & Activity  
 
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityakishore0&theme=tokyonight)  
+
+### 🌱 Contribution Graph  
+![Aditya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night)
 
 ## 📣 Let's Connect
 
