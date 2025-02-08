@@ -1,6 +1,3 @@
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0)
-
 # ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, my name is Aditya
 
 ## Web Developer & Web Designer
@@ -49,6 +46,8 @@ Here are some of the technologies I work with:
 
 ### 🌱 Contribution Graph  
 ![Aditya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0)
 
 ## 📣 Let's Connect
 
