@@ -7,7 +7,7 @@
 - ⚡ **Building Aetheris AI**: https://www.codewithashutosh.com/  
 - ✉️ **You can contact me at**: [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ## 🚀 Skills
 Here are some of the technologies I work with:
 
