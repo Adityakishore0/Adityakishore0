@@ -47,7 +47,8 @@ Here are some of the technologies I work with:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&border_radius=4.6)](https://git.io/streak-stats)
 
 ### 🌱 Contribution Graph  
-![Aditya's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night)
+[![Click to Load Graph](https://via.placeholder.com/800x400?text=Click+to+Load+Graph)](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night)
+
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0)
 
