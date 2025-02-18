@@ -9,7 +9,7 @@
    https://www.codewithashutosh.com/  
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=cyber-streakglow)](https://git.io/streak-stats)
 
 ## 🚀 Skills
 Here are some of the technologies I work with:
