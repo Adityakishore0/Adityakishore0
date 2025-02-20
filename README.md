@@ -42,9 +42,11 @@ Here are some of the technologies I work with:
 ### 🚀 GitHub Stats & Activity  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
+[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
-[![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
