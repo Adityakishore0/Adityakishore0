@@ -11,9 +11,6 @@
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
-
-
 ## 🚀 Skills
 Here are some of the technologies I work with:
 
