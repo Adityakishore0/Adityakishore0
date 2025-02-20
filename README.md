@@ -9,7 +9,7 @@
    https://www.codewithashutosh.com/  
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityakishore0)](https://git.io/streak-stats)
+
 
 ## 🚀 Skills
 Here are some of the technologies I work with:
@@ -44,7 +44,7 @@ Here are some of the technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
