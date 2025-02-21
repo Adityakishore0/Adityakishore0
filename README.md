@@ -10,7 +10,7 @@
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adityaencode?theme=dark&font=Brygada%201918)
+
 
 ## 🚀 Skills
 Here are some of the technologies I work with:
