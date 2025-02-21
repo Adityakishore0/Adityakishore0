@@ -10,7 +10,7 @@
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=geohot&theme=dracula)](https://git.io/streak-stats)
 
 ## 🚀 Skills
 Here are some of the technologies I work with:
