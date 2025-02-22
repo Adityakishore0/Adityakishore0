@@ -4,6 +4,7 @@
 
 - 🌍 **I'm based in India**  
 - 🖥️ **See my portfolio**: 
+
    https://aditya.is-cool.dev
 - ⚡ **Building Aetheris AI**: 
    https://www.codewithashutosh.com/  
