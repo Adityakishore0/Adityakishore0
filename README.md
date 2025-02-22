@@ -3,7 +3,7 @@
 ## Web Developer & Web Designer
 
 - 🌍 **I'm based in India**  
-- 🖥️ **See my portfolio**:
+- 🖥️ **See my portfolio**: 
    https://aditya.is-cool.dev
 - ⚡ **Building Aetheris AI**: 
    https://www.codewithashutosh.com/  
