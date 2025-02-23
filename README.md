@@ -48,7 +48,7 @@ Here are some of the technologies I work with:
 
 ### 🌱 Contribution Graph  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night" loading="lazy" width="100%" alt="Aditya's Contribution Graph">
-
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0 &theme=github_dark)](https://github.com/Adityakishore0)
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0)
