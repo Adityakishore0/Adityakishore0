@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
   ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=next.js&logoColor=000000)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=next.js&logoColor=ffffff)
 
 - **Backend**:
   ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B)
