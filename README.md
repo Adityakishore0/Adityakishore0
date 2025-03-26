@@ -48,7 +48,7 @@ Here are some of the technologies I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
 ![Your GitHub Stats](https://github-readme-stats-aditya-kishores-projects-9f9aface.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800) 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### 🌱 Contribution Graph  
