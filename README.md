@@ -7,9 +7,9 @@
 - 🖥️ **See my portfolio**:
  https://aditya.is-cool.dev
 - ⚡ **Building Aetheris AI**: 
-   https://www.codewithashutosh.com/
+   https://www.codewithashutosh.com
 - 🗿 **Building Scrollout AI**: 
-   https://scrollout.vercel.app/
+   https://scrollout.vercel.app
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
