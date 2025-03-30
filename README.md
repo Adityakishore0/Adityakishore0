@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 
 - **Frontend**:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178C6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=3178C6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
   ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
   ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
