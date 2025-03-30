@@ -61,8 +61,8 @@ Here are some of the technologies I work with:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/AdityaFullstack)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-square&logo=internetexplorer&logoColor=white)](https://aditya.is-cool.dev)  
-[![Aetheris AI](https://img.shields.io/badge/-Aetheris%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://www.codewithashutosh.com/)  
-[![Scrollout  AI](https://img.shields.io/badge/-Scrollout%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://scrollout.vercel.app/) 
+[![Aetheris AI](https://img.shields.io/badge/-Aetheris%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://www.codewithashutosh.com)  
+[![Scrollout  AI](https://img.shields.io/badge/-Scrollout%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://scrollout.vercel.app) 
 ---
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
