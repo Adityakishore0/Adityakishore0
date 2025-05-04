@@ -9,7 +9,7 @@
 - ⚡ **Aetheris AI**: 
    https://www.codewithashutosh.com
 - 🔥 **Building ScrollX-UI**:
-   https://scrollx-ui.vercel.app/
+   https://scrollx-ui.vercel.app
 - 🗿 **Building Scrollout AI**: 
    https://scrollout.vercel.app
 - ✉️ **You can contact me at**:
