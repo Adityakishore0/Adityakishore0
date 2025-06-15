@@ -7,7 +7,7 @@
 - 🖥️ **See my portfolio**:
  https://aditya.is-cool.dev
 - ⚡ **Aetheris AI**: 
-   https://www.codewithashutosh.com
+   https://aetheris-3-0-cwa3.vercel.app
 - 🔥 **Building ScrollX-UI**:
    https://scrollx-ui.vercel.app
 - 🗿 **Building Scrollout AI**: 
