@@ -41,7 +41,7 @@ Here are some of the technologies I work with:
   ![Babel](https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E)
 
 - **Machine Learning**:
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+  
 
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
