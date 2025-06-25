@@ -42,6 +42,8 @@ Here are some of the technologies I work with:
 
 - **Machine Learning**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+- Scikit-learn, Pandas, NumPy, Matplotlib  
+
 
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
