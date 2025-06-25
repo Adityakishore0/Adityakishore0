@@ -46,7 +46,7 @@ Here are some of the technologies I work with:
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-### 🚀 GitHub Stats & Activity  
+## 🚀 GitHub Stats & Activity  
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
