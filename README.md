@@ -42,8 +42,13 @@ Here are some of the technologies I work with:
 
 - **Machine Learning**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-- Scikit-learn, Pandas, NumPy, Matplotlib  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white)
 
+> I trained my first ML model using TensorFlow like a **wizard 🧙‍♂️**, and I'm still leveling up.
+  
 
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
