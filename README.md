@@ -49,6 +49,12 @@ Here are some of the technologies I work with:
 
 > I trained my first ML model using TensorFlow like a **wizard 🧙‍♂️**, and I'm still leveling up.
   
+## ⚙️ CI/CD & DevOps Flow  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624)
+
+> Automated testing + CI/CD pipelines = peaceful deployments 🚀
 
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
