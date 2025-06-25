@@ -56,6 +56,12 @@ Here are some of the technologies I work with:
 
 > Automated testing + CI/CD pipelines = peaceful deployments 🚀
 
+## 🛠️ Python Tools I Use  
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626)
+
+
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
