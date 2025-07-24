@@ -8,7 +8,7 @@
  https://aditya.is-cool.dev
 - ⚡ **Aetheris AI**: 
    https://aetheris-3-0-cwa3.vercel.app
-- 🔥 **Building ScrollX-UI**:
+- 🔥 **Building ScrollX UI**:
    https://scrollx-ui.vercel.app
 - 🗿 **Building Scrollout AI**: 
    https://scrollout.vercel.app
