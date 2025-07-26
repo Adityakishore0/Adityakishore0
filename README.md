@@ -1,3 +1,4 @@
+## Pinned repository
 <a href="https://github.com/adityakishore0/ScrollX-UI" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=8" />
 </a>
