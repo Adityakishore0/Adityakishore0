@@ -15,8 +15,6 @@
    https://aetheris-3-0-cwa3.vercel.app
 - 🔥 **Building ScrollX UI**:
    https://scrollx-ui.vercel.app
-- 🗿 **Building Scrollout AI**: 
-   https://scrollout.vercel.app
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
@@ -89,7 +87,7 @@ Here are some of the technologies I work with:
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-square&logo=internetexplorer&logoColor=white)](https://aditya.is-cool.dev)  
 [![Aetheris AI](https://img.shields.io/badge/-Aetheris%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://aetheris-3-0-cwa3.vercel.app)  
-[![Scrollout  AI](https://img.shields.io/badge/-Scrollout%20AI-3333?style=flat-square&logo=code&logoColor=F24E1E)](https://scrollout.vercel.app) 
+
 ---
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
