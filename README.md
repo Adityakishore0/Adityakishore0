@@ -13,7 +13,7 @@
 - ⚡ **Aetheris AI**: 
    https://aetheris-3-0-cwa3.vercel.app
 - 🔥 **Building ScrollX UI**:
-   https://scrollx-ui.vercel.app
+   https://scrollxui.dev
 - ✉️ **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
