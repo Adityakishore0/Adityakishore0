@@ -10,8 +10,6 @@
 - 🌍 **I'm based in India**  
 - 🖥️ **See my portfolio**:
  https://aditya.is-cool.dev
-- ⚡ **Aetheris AI**: 
-   https://aetheris-3-0-cwa3.vercel.app
 - 🔥 **Building ScrollX UI**:
    https://scrollxui.dev
 - ✉️ **You can contact me at**:
@@ -71,7 +69,7 @@ Here are some of the technologies I work with:
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
-![Your GitHub Stats](https://github-readme-stats-aditya-kishores-projects-9f9aface.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
 
 
@@ -85,7 +83,6 @@ Here are some of the technologies I work with:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-square&logo=internetexplorer&logoColor=white)](https://aditya.is-cool.dev)  
-[![Aetheris AI](https://img.shields.io/badge/-Aetheris%20AI-333?style=flat-square&logo=code&logoColor=F24E1E)](https://aetheris-3-0-cwa3.vercel.app)  
 [![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=flat-square&logo=code&logoColor=F24E1E)](https://scrollx-ui.vercel.app) 
 ---
 
