@@ -39,6 +39,7 @@ Here are some of the technologies I work with:
 - **Dev Tools**:
   ![Webpack](https://img.shields.io/badge/-Webpack-333?style=flat-square&logo=webpack&logoColor=8DD6F9)
   ![Babel](https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E)
+  ![Turbopack](https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff)
 
 - **Machine Learning**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
