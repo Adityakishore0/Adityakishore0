@@ -69,10 +69,23 @@ Here are some of the technologies I work with:
 
 ## 🚀 GitHub Stats & Activity  
 
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight) 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight)](https://git.io/streak-stats)
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight" style="width: 49%;" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800" style="width: 49%;" alt="GitHub Stats" />
+  </div>
+
+  <!-- Row 2 -->
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight" style="width: 100%;" alt="GitHub Streak" />
+    </a>
+  </div>
+
+</div>
+
 
 
 ### 🌱 Contribution Graph  
