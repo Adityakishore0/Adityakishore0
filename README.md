@@ -67,32 +67,20 @@ Here are some of the technologies I work with:
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## 🚀 GitHub Stats & Activity  
+## 🚀 GitHub Stats & Activity
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+| Top Languages | GitHub Stats |
+|---------------|--------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight&hide=html) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide=issues) |
 
-  <!-- Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 20px; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight" style="width: 49%;" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&cache_seconds=1800" style="width: 49%;" alt="GitHub Stats" />
-  </div>
+| Streak | Profile Card |
+|--------|--------------|
+| ![Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&hide_border=true) | [![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0) |
 
-  <!-- Row 2 -->
-  <div style="width: 100%; display: flex; justify-content: center;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight" style="width: 100%;" alt="GitHub Streak" />
-    </a>
-  </div>
+| Contribution Graph |
+|------------------|
+| ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night&area=true&width=600) |
 
-</div>
-
-
-
-### 🌱 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night" loading="lazy" width="100%" alt="Aditya's Contribution Graph">
-
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0)
 
 ## 📣 Let's Connect  
 
