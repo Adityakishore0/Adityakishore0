@@ -2,7 +2,7 @@
 [![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=8&cache_seconds=4)](https://github.com/adityakishore0/ScrollX-UI)
 
 
-## Hi, I’m Aditya / Ahdeetai  
+# Hi, I’m Aditya / Ahdeetai  
 <sub>Internationally known as Ahdeetai</sub>
 
 
