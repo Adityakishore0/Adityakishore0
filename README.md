@@ -51,7 +51,7 @@ Here are some of the technologies I work with:
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white)
 
-> I trained my first ML model using TensorFlow like a **wizard 🧙‍♂️**, and I'm still leveling up.
+> I trained my first ML model using TensorFlow like a **wizard 🧙‍♂️**, and I'm still leveling up..
   
 ## ⚙️ CI/CD & DevOps Flow  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions&logoColor=white)
