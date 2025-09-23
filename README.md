@@ -2,7 +2,7 @@
 [![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=8&cache_seconds=4)](https://github.com/adityakishore0/ScrollX-UI)
 
 
-# ![Waving Hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m Aditya / Ahdeetai  
+## Hi, I’m Aditya / Ahdeetai  
 <sub>Internationally known as Ahdeetai</sub>
 
 
