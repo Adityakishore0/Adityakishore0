@@ -3,7 +3,7 @@
 
 
 # Hi, I’m Aditya / Ahdeetai  
-<sub>Internationally known as Ahdeetai</sub>
+<sub>Internationally known as Ahdeetai.</sub>
 
 
 ## Web Developer & Web Designer
