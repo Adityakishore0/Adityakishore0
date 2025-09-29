@@ -91,4 +91,4 @@ Here are some of the technologies I work with:
 [![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=flat-square&logo=code&logoColor=F24E1E)](https://scrollx-ui.vercel.app) 
 ---
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate!
+Feel free to explore my repositories and get in touch if you'd like to collaborate.
