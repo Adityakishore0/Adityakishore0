@@ -58,7 +58,7 @@ Here are some of the technologies I work with:
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624)
 
-> Automated testing + CI/CD pipelines = peaceful deployments 🚀
+> Automated testing + CI/CD pipelines = peaceful deployments.
 
 ## 🛠️ Python Tools I Use  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
