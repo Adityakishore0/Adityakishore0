@@ -53,14 +53,14 @@ Here are some of the technologies I work with:
 
 > I trained my first ML model using TensorFlow like a **wizard 🧙‍♂️**, and I'm still leveling up..
   
-## ⚙️ CI/CD & DevOps Flow  
+##  CI/CD & DevOps Flow  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624)
 
 > Automated testing + CI/CD pipelines = peaceful deployments.
 
-## 🛠️ Python Tools I Use  
+##  Python Tools I Use  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626)
@@ -69,7 +69,7 @@ Here are some of the technologies I work with:
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-## 🚀 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 | Top Languages | GitHub Stats |
 |---------------|--------------|
@@ -84,7 +84,7 @@ Here are some of the technologies I work with:
 | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night&area=true&width=600) |
 
 
-## 📣 Let's Connect  
+##  Let's Connect  
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-square&logo=internetexplorer&logoColor=white)](https://aditya.is-cool.dev)  
