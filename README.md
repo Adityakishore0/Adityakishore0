@@ -18,7 +18,7 @@
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
 
-## 🚀 Skills
+##  Skills
 Here are some of the technologies I work with:
 
 - **Frontend**:
