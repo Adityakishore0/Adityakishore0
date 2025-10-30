@@ -5,6 +5,8 @@
 # Hi, I’m Aditya / Ahdeetai  
 <sub>Internationally known as Ahdeetai.</sub>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=700&color=38BDf8&width=300&lines=Developer;Designer)](https://git.io/typing-svg)
+
 
 ## Web Developer & Web Designer
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityakishore0&label=Profile%20views&color=1778F2&style=flat)
