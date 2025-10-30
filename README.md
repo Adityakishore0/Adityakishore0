@@ -66,6 +66,10 @@ Here are some of the technologies I work with:
 - **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
 ##  GitHub Stats & Activity
 
 | ✨ Top Languages | 💯 GitHub Stats |
