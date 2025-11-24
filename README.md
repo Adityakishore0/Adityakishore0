@@ -69,7 +69,7 @@ Here are some of the technologies I work with:
 ## **Design**:
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=juicyfresh&no-frame=true&row=1&margin-w=20&no-bg=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=1&margin-w=20&no-bg=true)
 
 
 ##  GitHub Stats & Activity
