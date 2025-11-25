@@ -66,7 +66,7 @@ Here are some of the technologies I work with:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626)
 
 
-## **Design**:
+## Design
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=1&margin-w=20&no-bg=true)
