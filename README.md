@@ -41,6 +41,8 @@ Here are some of the technologies I work with:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=336791)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248)
   ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1)
+  ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333?style=flat-square&logo=puppeteer&logoColor=40B5A4)
+
 
 - **Dev Tools**:
   ![Webpack](https://img.shields.io/badge/-Webpack-333?style=flat-square&logo=webpack&logoColor=8DD6F9)
