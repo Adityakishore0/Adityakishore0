@@ -83,7 +83,7 @@ Here are some of the technologies I work with:
 
 | ✨ Streak | 🔥 Profile Card |
 |--------|--------------|
-| ![Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&hide_border=true) | [![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0) |
+| ![Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&hide_border=false) | [![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0) |
 
 | Contribution Graph |
 |------------------|
