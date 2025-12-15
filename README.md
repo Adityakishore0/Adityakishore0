@@ -90,11 +90,14 @@ Here are some of the technologies I work with:
 | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night&area=true&width=600) |
 
 
-##  Let's Connect  
+## Let's Connect  
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-squircle&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-squircle&logo=internetexplorer&logoColor=yellow)](https://aditya.is-cool.dev)  
-[![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=flat-squircle&logo=code&logoColor=F24E1E)](https://scrollxui.dev) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-squircle&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)<br/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-squircle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kishore-519068341/)<br/>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-squircle&logo=internetexplorer&logoColor=yellow)](https://aditya.is-cool.dev)<br/>
+[![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=flat-squircle&logo=code&logoColor=F24E1E)](https://scrollxui.dev)
+
 ---
+
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate.
