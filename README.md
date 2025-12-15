@@ -20,7 +20,6 @@
 - 📞 **You can contact me at**:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
-
 ##  Skills
 Here are some of the technologies I work with:
 
