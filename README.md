@@ -48,6 +48,7 @@ Here are some of the technologies I work with:
   ![Babel](https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E)
   ![Turbopack](https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff)
   ![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=FF6C37)
+  ![Jest](https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325)
 
 - **Machine Learning**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
