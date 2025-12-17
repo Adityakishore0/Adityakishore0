@@ -101,4 +101,4 @@ Here are some of the technologies I work with:
 ---
 
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate.
+Feel free to explore my repositories and get in touch if you'd like to collaborate in open-source projects.
