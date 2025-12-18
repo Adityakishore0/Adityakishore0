@@ -51,6 +51,7 @@ Here are some of the technologies I work with:
   ![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=FF6C37)
   ![Jest](https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325)
   ![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=4B32C3)
+  ![Husky](https://img.shields.io/badge/-Husky-333?style=flat-square&logo=git&logoColor=F05032)
 
 - **Machine Learning**:
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
