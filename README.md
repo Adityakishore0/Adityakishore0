@@ -41,6 +41,7 @@ Here are some of the technologies I work with:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248)
   ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1)
   ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333?style=flat-square&logo=puppeteer&logoColor=40B5A4)
+  ![Redis](https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis&logoColor=DC382D)
 
 
 - **Dev Tools**:
