@@ -3,7 +3,7 @@
 
 
 # ***Hi, I’m <ins>Aditya / Ahdeetai</ins>***
-<sub>Internationally known as Ahdeetai..</sub> 
+<sub>Internationally known as Ahdeetai.</sub> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=700&color=38BDf8&width=300&lines=Developer;Designer)](https://git.io/typing-svg)
 
