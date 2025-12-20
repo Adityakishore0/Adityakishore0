@@ -32,6 +32,7 @@ Here are some of the technologies I work with:
   ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react&logoColor=61DBFB)
   ![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white)
   ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-333?style=flat-square&logo=framer&logoColor=0055FF)
+  ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat-square&logo=three.js&logoColor=white)
 
 
 - **Backend**:
