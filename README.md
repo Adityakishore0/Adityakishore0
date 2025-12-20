@@ -21,7 +21,7 @@
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
 ##  Skills
-Here are some of the technologies I work with:
+Here are some of the key technologies I work with:
 
 - **Frontend**:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178b6)
