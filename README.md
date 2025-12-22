@@ -76,7 +76,7 @@ Here are some of the key technologies I work with:
 ## Design
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=1&margin-w=20&no-bg=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=1&margin-w=18&no-bg=false)
 
 
 ##  GitHub Stats & Activity
