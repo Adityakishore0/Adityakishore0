@@ -98,7 +98,7 @@ Here are some of the key technologies I work with:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-squircle&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)<br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-squircle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kishore-519068341/)<br/>
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-squircle&logo=instagram&logoColor=white)](https://www.instagram.com/ahdeetai)<br/>
+[![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=flat-squircle&logo=instagram&logoColor=white)](https://www.instagram.com/ahdeetai)<br/>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-squircle&logo=internetexplorer&logoColor=yellow)](https://aditya.is-cool.dev)<br/>
 [![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=flat-squircle&logo=code&logoColor=F24E1E)](https://scrollxui.dev)
 
