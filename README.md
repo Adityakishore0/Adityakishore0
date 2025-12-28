@@ -93,6 +93,7 @@ Here are some of the key technologies I work with:
 |------------------|
 | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night&area=true&width=600) |
 
+---
 
 ## Let's Connect  
 
