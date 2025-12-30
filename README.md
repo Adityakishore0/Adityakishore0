@@ -23,26 +23,32 @@
 ##  Skills
 Here are some of the key technologies I work with:
 
-- **Frontend**:
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178b6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDf8)
-  ![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react&logoColor=61DBFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-333?style=flat-square&logo=framer&logoColor=0055FF)
-  ![Three.js](https://img.shields.io/badge/-Three.js-333?style=flat-square&logo=three.js&logoColor=white)
-
-
-- **Backend**:
-  ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B)
-  ![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express&logoColor=000000)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=336791)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1)
-  ![Puppeteer](https://img.shields.io/badge/-Puppeteer-333?style=flat-square&logo=puppeteer&logoColor=40B5A4)
-  ![Redis](https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis&logoColor=DC382D)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178b6"/>
+      <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDf8"/>
+      <img src="https://img.shields.io/badge/-React-333?style=flat-square&logo=react&logoColor=61DBFB"/>
+      <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Framer%20Motion-333?style=flat-square&logo=framer&logoColor=0055FF"/>
+      <img src="https://img.shields.io/badge/-Three.js-333?style=flat-square&logo=three.js&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
+      <img src="https://img.shields.io/badge/-Express-333?style=flat-square&logo=express&logoColor=000000"/>
+      <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=336791"/>
+      <img src="https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
+      <img src="https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/-Puppeteer-333?style=flat-square&logo=puppeteer&logoColor=40B5A4"/>
+      <img src="https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis&logoColor=DC382D"/>
+    </td>
+  </tr>
+</table>
 
 
 - **Dev Tools**:
