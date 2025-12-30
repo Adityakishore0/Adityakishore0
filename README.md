@@ -51,21 +51,29 @@ Here are some of the key technologies I work with:
 </table>
 
 
-- **Dev Tools**:
-  ![Webpack](https://img.shields.io/badge/-Webpack-333?style=flat-square&logo=webpack&logoColor=8DD6F9)
-  ![Babel](https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E)
-  ![Turbopack](https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff)
-  ![Postman](https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=FF6C37)
-  ![Jest](https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325)
-  ![ESLint](https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=4B32C3)
-  ![Husky](https://img.shields.io/badge/-Husky-333?style=flat-square&logo=git&logoColor=F05032)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
+      <strong>Dev Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-Webpack-333?style=flat-square&logo=webpack&logoColor=8DD6F9"/>
+      <img src="https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E"/>
+      <img src="https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=FF6C37"/>
+      <img src="https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325"/>
+      <img src="https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=4B32C3"/>
+      <img src="https://img.shields.io/badge/-Husky-333?style=flat-square&logo=git&logoColor=F05032"/>
+    </td>
+    <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
+      <strong>Machine Learning</strong><br/><br/>
+      <img src="https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+      <img src="https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
+      <img src="https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas"/>
+      <img src="https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243"/>
+      <img src="https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-- **Machine Learning**:
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white)
 
   
 ##  CI/CD & DevOps   
