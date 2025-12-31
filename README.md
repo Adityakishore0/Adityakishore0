@@ -1,7 +1,6 @@
 # Pinned repository
 [![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=6&cache_seconds=4)](https://github.com/adityakishore0/ScrollX-UI)
 
-
 # ***Hi, I’m <ins>Aditya / Ahdeetai</ins>***
 <sub>Internationally known as Ahdeetai.</sub> 
 
