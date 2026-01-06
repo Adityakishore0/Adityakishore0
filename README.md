@@ -4,7 +4,6 @@
 # ***Hi, I’m <ins>Aditya / Ahdeetai</ins>***
 <sub>Internationally known as Ahdeetai.</sub> 
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=700&color=38BDf8&width=300&lines=Developer;Designer;Creator)](https://git.io/typing-svg)
 
 [![GitHub Adityakishore0](https://img.shields.io/github/followers/adityakishore0?label=follow&style=social)](https://github.com/Adityakishore0)
