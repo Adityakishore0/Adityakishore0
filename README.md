@@ -69,6 +69,7 @@ Here are some of the key technologies I work with:
       <img src="https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas"/>
       <img src="https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243"/>
       <img src="https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white"/>
+     <img src="https://img.shields.io/badge/-Anaconda-333?style=flat-square&logo=anaconda&logoColor=44A833"/>
     </td>
   </tr>
 </table>
