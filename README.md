@@ -82,6 +82,7 @@ Here are some of the key technologies I work with:
       <img src="https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624"/>
+     <img src="https://img.shields.io/badge/-Vercel-333?style=flat-square&logo=vercel&logoColor=white"/>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
       <strong>Python Tools I Use</strong><br/><br/>
