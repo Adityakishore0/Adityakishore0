@@ -8,7 +8,7 @@
 
 [![GitHub Adityakishore0](https://img.shields.io/github/followers/adityakishore0?label=follow&style=social)](https://github.com/Adityakishore0)
 
-## Web Developer & Web Designer
+## ***Web Developer & Web Designer***
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityakishore0&label=Profile%20views&color=1778F2&style=flat)
 
 - 🌍 **I'm based in India**  
