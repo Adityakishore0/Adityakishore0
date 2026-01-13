@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityakishore0&label=Profile%20views&color=1778F2&style=flat)
 
 - 🌍 ***I'm based in India***  
-- 🖥️ **See my portfolio**:
+- 🖥️ ***See my portfolio***:
  https://aditya.is-cool.dev
 - 🔥 **Building ScrollX UI**:
    https://scrollxui.dev
