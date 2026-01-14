@@ -131,4 +131,4 @@
 
 ---
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate in open-source projects.
+***Feel free to explore my repositories and get in touch if you'd like to collaborate in open-source projects.***
