@@ -13,7 +13,7 @@
 
 - 🌍 ***I'm based in India***  
 - 🖥️ ***See my portfolio***:
- https://aditya.is-cool.dev
+ ***https://aditya.is-cool.dev***
 - 🔥 ***Building ScrollX UI***:
    https://scrollxui.dev
 - 📞 ***You can contact me at***:
