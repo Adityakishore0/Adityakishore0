@@ -105,7 +105,7 @@
 
 ---
 
-##  GitHub Stats & Activity
+##  ***GitHub Stats & Activity***
 
 | ⚡ Top Languages | 💯 GitHub Stats |
 |---------------|--------------|
