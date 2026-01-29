@@ -15,7 +15,7 @@
 - 🖥️ ***See my portfolio***:
  ***https://aditya.is-cool.dev***
 - 🔥 ***Building ScrollX UI***:
-   https://scrollxui.dev
+   ***https://scrollxui.dev***
 - 📞 ***You can contact me at***:
     [AdityaKishorejs@proton.me](mailto:AdityaKishorejs@proton.me)
 
