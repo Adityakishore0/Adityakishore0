@@ -107,7 +107,7 @@
 
 ##  ***GitHub Stats & Activity***
 
-| ⚡ Top Languages | 💯 GitHub Stats |
+| ⚡ ***Top Languages*** | 💯 ***GitHub Stats*** |
 |---------------|--------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight&hide=html) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide=issues) |
 
