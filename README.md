@@ -111,7 +111,7 @@
 |---------------|--------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakishore0&layout=compact&theme=tokyonight&hide=html) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adityakishore0&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide=issues) |
 
-| ✨ Streak | 🔥 Profile Card |
+| ✨ ***Streak*** | 🔥 ***Profile Card*** |
 |--------|--------------|
 | ![Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&hide_border=false) | [![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0) |
 
