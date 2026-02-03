@@ -100,7 +100,7 @@
 ## ***Design***
   ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma&logoColor=F24E1E)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=1&margin-w=16&no-bg=false)
+![trophy](https://github-profile-trophy.vercel.app/?username=adityakishore0&theme=tokyonight&no-frame=true&row=16margin-w=16&no-bg=false)
 
 
 ---
