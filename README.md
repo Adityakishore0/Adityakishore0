@@ -115,7 +115,7 @@
 |--------|--------------|
 | ![Streak](https://streak-stats.demolab.com?user=Adityakishore0&theme=tokyonight&hide_border=false) | [![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityakishore0&theme=tokyonight)](https://github.com/Adityakishore0) |
 
-| Contribution Graph |
+| ***Contribution Graph*** |
 |------------------|
 | ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityakishore0&theme=tokyo-night&area=true&width=600) |
 
