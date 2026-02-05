@@ -25,7 +25,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-      <strong>Frontend</strong><br/><br/>
+      <strong><em>Frontend</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178b6"/>
       <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26"/>
@@ -37,7 +37,7 @@
       <img src="https://img.shields.io/badge/-Three.js-333?style=flat-square&logo=three.js&logoColor=white"/>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-      <strong>Backend</strong><br/><br/>
+      <strong><em>Backend</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
       <img src="https://img.shields.io/badge/-Express-333?style=flat-square&logo=express&logoColor=000000"/>
       <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=336791"/>
@@ -48,6 +48,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <table width="100%">
