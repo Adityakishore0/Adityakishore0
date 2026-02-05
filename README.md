@@ -54,7 +54,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-      <strong>Dev Tools</strong><br/><br/>
+      <strong><em>Dev Tools</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-Webpack-333?style=flat-square&logo=webpack&logoColor=8DD6F9"/>
       <img src="https://img.shields.io/badge/-Babel-333?style=flat-square&logo=babel&logoColor=F9DC3E"/>
       <img src="https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff"/>
@@ -64,16 +64,17 @@
       <img src="https://img.shields.io/badge/-Husky-333?style=flat-square&logo=git&logoColor=F05032"/>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-      <strong>Machine Learning</strong><br/><br/>
+      <strong><em>Machine Learning</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
       <img src="https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
       <img src="https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas"/>
       <img src="https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243"/>
       <img src="https://img.shields.io/badge/-Matplotlib-333?style=flat-square&logo=python&logoColor=white"/>
-     <img src="https://img.shields.io/badge/-Anaconda-333?style=flat-square&logo=anaconda&logoColor=44A833"/>
+      <img src="https://img.shields.io/badge/-Anaconda-333?style=flat-square&logo=anaconda&logoColor=44A833"/>
     </td>
   </tr>
 </table>
+
 
 
   
