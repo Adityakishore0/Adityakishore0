@@ -81,7 +81,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
-      <strong>CI/CD & DevOps</strong><br/><br/>
+      <strong><em>CI/CD & DevOps</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-GitHub%20Actions-333?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Docker-333?style=flat-square&logo=docker&logoColor=2496ED"/>
       <img src="https://img.shields.io/badge/-Linux-333?style=flat-square&logo=linux&logoColor=FCC624"/>
