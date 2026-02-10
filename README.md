@@ -125,7 +125,7 @@
 
 ## ***Let's Connect***  
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-squircle&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)<br/>
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)<br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-squircle&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kishore-519068341/)<br/>
 [![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=flat-squircle&logo=instagram&logoColor=white)](https://www.instagram.com/ahdeetai)<br/>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=flat-squircle&logo=internetexplorer&logoColor=yellow)](https://aditya.is-cool.dev)<br/>
