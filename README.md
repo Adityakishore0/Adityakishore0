@@ -4,7 +4,7 @@
 # ***Hi, I’m <ins>Aditya / Ahdeetai</ins>***
 ***<sub>Internationally known as Ahdeetai.</sub>*** 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Story+Script&duration=1400&pause=700&color=38BDf8&width=300&lines=Developer;Designer;Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Story+Script&duration=1200&pause=700&color=38BDf8&width=300&lines=Developer;Designer;Creator)](https://git.io/typing-svg)
 
 [![GitHub Adityakishore0](https://img.shields.io/github/followers/adityakishore0?label=follow&style=plastic&abbreviated=true)](https://github.com/Adityakishore0)
 
