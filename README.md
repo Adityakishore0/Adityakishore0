@@ -26,7 +26,7 @@
   <tr>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
       <strong><em>Frontend</em></strong><br/><br/>
-      <img src="https://img.shields.io/badge/-TypeScript-333?style=flat-square&logo=typescript&logoColor=3178b6"/>
+      <img src="https://img.shields.io/badge/-TypeScript-333?style=plastic&logo=typescript&logoColor=3178b6"/>
       <img src="https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
       <img src="https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5&logoColor=E34F26"/>
       <img src="https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3&logoColor=1572B6"/>
