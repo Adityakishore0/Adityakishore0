@@ -38,7 +38,7 @@
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
       <strong><em>Backend</em></strong><br/><br/>
-      <img src="https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js&logoColor=8CC84B"/>
+      <img src="https://img.shields.io/badge/-Node.js-333?style=plastic&logo=node.js&logoColor=8CC84B"/>
       <img src="https://img.shields.io/badge/-Express-333?style=flat-square&logo=express&logoColor=000000"/>
       <img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat-square&logo=postgresql&logoColor=336791"/>
       <img src="https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
