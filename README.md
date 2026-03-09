@@ -16,6 +16,8 @@
  ***https://aditya.is-cool.dev***
 - 🔥 ***Building ScrollX UI***:
    ***https://scrollxui.dev***
+- 📄 ***Resume***:
+   ***https://aditya-kishore-resume.tiiny.site/***
 - 📞 ***You can contact me at:***:
     [***AdityaKishorejs@proton.me***](mailto:AdityaKishorejs@proton.me)
 
