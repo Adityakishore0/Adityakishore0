@@ -13,7 +13,7 @@
 
 - 🌍 ***I'm based in India***  
 - 🖥️ ***See my portfolio***:
- ***https://aditya.is-cool.dev***
+ ***https://adityafull-stack.vercel.app***
 - 🔥 ***Building ScrollX UI***:
    ***https://scrollxui.dev***
 - 📄 ***Resume***:
@@ -130,7 +130,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://x.com/Ahdeetai)<br/>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kishore-519068341/)<br/>
 [![Instagram](https://img.shields.io/badge/-Instagram-0A66C2?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/ahdeetai)<br/>
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=plastic&logo=internetexplorer&logoColor=yellow)](https://aditya.is-cool.dev)<br/>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00A3E0?style=plastic&logo=internetexplorer&logoColor=yellow)](https://adityafull-stack.vercel.app)<br/>
 [![ScrollX UI](https://img.shields.io/badge/-ScrollX%20UI-3333?style=plastic&logo=code&logoColor=F24E1E)](https://scrollxui.dev)
 
 ---
