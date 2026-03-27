@@ -67,7 +67,7 @@
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
       <strong><em>Machine Learning</em></strong><br/><br/>
-      <img src="https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
+      <img src="https://img.shields.io/badge/-TensorFlow-333?style=plastic&logo=tensorflow&logoColor=FF6F00"/>
       <img src="https://img.shields.io/badge/-Scikit--learn-333?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
       <img src="https://img.shields.io/badge/-Pandas-333?style=flat-square&logo=pandas"/>
       <img src="https://img.shields.io/badge/-NumPy-333?style=flat-square&logo=numpy&logoColor=013243"/>
