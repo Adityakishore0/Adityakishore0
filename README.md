@@ -91,7 +91,7 @@
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
       <strong><em>Python Tools I Use</em></strong><br/><br/>
-      <img src="https://img.shields.io/badge/-FastAPI-333?style=flat-square&logo=fastapi"/>
+      <img src="https://img.shields.io/badge/-FastAPI-333?style=plastic&logo=fastapi"/>
       <img src="https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask"/>
       <img src="https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626"/>
     </td>
