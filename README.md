@@ -59,7 +59,7 @@
       <strong><em>Dev Tools</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-Webpack-333?style=plastic&logo=webpack&logoColor=8DD6F9"/>
       <img src="https://img.shields.io/badge/-Babel-333?style=plastic&logo=babel&logoColor=F9DC3E"/>
-      <img src="https://img.shields.io/badge/-Turbopack-333?style=flat-square&logo=turborepo&logoColor=fff"/>
+      <img src="https://img.shields.io/badge/-Turbopack-333?style=plastic&logo=turborepo&logoColor=fff"/>
       <img src="https://img.shields.io/badge/-Postman-333?style=flat-square&logo=postman&logoColor=FF6C37"/>
       <img src="https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325"/>
       <img src="https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=4B32C3"/>
