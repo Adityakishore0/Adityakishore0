@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/-Node.js-333?style=plastic&logo=node.js&logoColor=8CC84B"/>
       <img src="https://img.shields.io/badge/-Express-333?style=plastic&logo=express&logoColor=000000"/>
       <img src="https://img.shields.io/badge/-PostgreSQL-333?style=plastic&logo=postgresql&logoColor=336791"/>
-      <img src="https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb&logoColor=47A248"/>
+      <img src="https://img.shields.io/badge/-MongoDB-333?style=plastic&logo=mongodb&logoColor=47A248"/>
       <img src="https://img.shields.io/badge/-MySQL-333?style=flat-square&logo=mysql&logoColor=4479A1"/>
       <img src="https://img.shields.io/badge/-Puppeteer-333?style=flat-square&logo=puppeteer&logoColor=40B5A4"/>
       <img src="https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis&logoColor=DC382D"/>
