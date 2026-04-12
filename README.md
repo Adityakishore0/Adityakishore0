@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwindcss&logoColor=38BDf8"/>
       <img src="https://img.shields.io/badge/-React-333?style=flat-square&logo=react&logoColor=61DBFB"/>
       <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Framer%20Motion-333?style=flat-square&logo=framer&logoColor=0055FF"/>
+      <img src="https://img.shields.io/badge/-Framer%20Motion-333?style=plastic&logo=framer&logoColor=0055FF"/>
       <img src="https://img.shields.io/badge/-Three.js-333?style=plastic&logo=three.js&logoColor=white"/>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
