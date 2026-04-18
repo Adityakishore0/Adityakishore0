@@ -1,5 +1,7 @@
 # ***Pinned repository***
 [![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/ScrollX-UI)
+[![scrollxuidesign-basic_template](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=scrollxuidesign-basic_template&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/scrollxuidesign-basic_template)
+[![scrollxuidesign-auth_template](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=scrollxuidesign-auth_template&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/scrollxuidesign-auth_template)
 
 # ***Hi, I’m <ins>Aditya / Ahdeetai</ins>***
 ***<sub>Internationally known as Ahdeetai.</sub>*** 
