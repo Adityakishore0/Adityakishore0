@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/-MongoDB-333?style=plastic&logo=mongodb&logoColor=47A248"/>
       <img src="https://img.shields.io/badge/-MySQL-333?style=plastic&logo=mysql&logoColor=4479A1"/>
       <img src="https://img.shields.io/badge/-Puppeteer-333?style=plastic&logo=puppeteer&logoColor=40B5A4"/>
-      <img src="https://img.shields.io/badge/-Redis-333?style=flat-square&logo=redis&logoColor=DC382D"/>
+      <img src="https://img.shields.io/badge/-Redis-333?style=plastic&logo=redis&logoColor=DC382D"/>
     </td>
   </tr>
 </table>
