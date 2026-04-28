@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/-Turbopack-333?style=plastic&logo=turborepo&logoColor=fff"/>
       <img src="https://img.shields.io/badge/-Postman-333?style=plastic&logo=postman&logoColor=FF6C37"/>
       <img src="https://img.shields.io/badge/-Jest-333?style=flat-square&logo=jest&logoColor=C21325"/>
-      <img src="https://img.shields.io/badge/-ESLint-333?style=flat-square&logo=eslint&logoColor=4B32C3"/>
+      <img src="https://img.shields.io/badge/-ESLint-333?style=plastic&logo=eslint&logoColor=4B32C3"/>
       <img src="https://img.shields.io/badge/-Husky-333?style=plastic&logo=git&logoColor=F05032"/>
     </td>
     <td width="50%" valign="top" style="border:1px solid #30363d; border-radius:12px; padding:16px;">
