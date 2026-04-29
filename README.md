@@ -96,7 +96,7 @@
       <strong><em>Python Tools I Use</em></strong><br/><br/>
       <img src="https://img.shields.io/badge/-FastAPI-333?style=plastic&logo=fastapi"/>
       <img src="https://img.shields.io/badge/-Flask-333?style=plastic&logo=flask"/>
-      <img src="https://img.shields.io/badge/-Jupyter-333?style=flat-square&logo=jupyter&logoColor=F37626"/>
+      <img src="https://img.shields.io/badge/-Jupyter-333?style=plastic&logo=jupyter&logoColor=F37626"/>
     </td>
   </tr>
 </table>
