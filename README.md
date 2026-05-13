@@ -1,5 +1,5 @@
 # ***Pinned repository***
-[![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/ScrollX-UI)
+[![ScrollX UI](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=ScrollX-UI&theme=github_dark&border_radius=7&cache_seconds=5)](https://github.com/adityakishore0/ScrollX-UI)
 [![scrollxuidesign-basic_template](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=scrollxuidesign-basic_template&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/scrollxuidesign-basic_template)
 [![scrollxuidesign-auth_template](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=scrollxuidesign-auth_template&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/scrollxuidesign-auth_template)
 [![scrollxuidesign-portfolio_template](https://github-readme-stats.vercel.app/api/pin/?username=adityakishore0&repo=scrollxuidesign-portfolio_template&theme=github_dark&border_radius=7&cache_seconds=4)](https://github.com/adityakishore0/scrollxuidesign-portfolio_template)
